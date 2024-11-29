@@ -8,13 +8,15 @@ Markdown
 2. Nombra el repositorio `proweb_miproyecto` (o el nombre que hayas elegido).
 3. Inicializa el repositorio con un README.md.
 
-[Image of creating a new repository]
+![creando repositorio](Screenshot_1.png)
+![creando repositorio](Screenshot_2.png)
+![creando repositorio](Screenshot_3.png)
 
 ### Agregar colaborador
 1. Ve a los Settings del repositorio.
 2. En la sección "Collaborators", agrega a `wilfredvasquez`.
 
-![Texto alternativo]((https://drive.google.com/file/d/1O5MGlILmfglTTendC8fggmldBDonlICX/view?usp=sharing))
+![agregando colaborador](Screenshot_4.png)
 
 ### Crear branches
 1. En la pestaña "Code", crea los siguientes branches:
@@ -22,7 +24,9 @@ Markdown
    * staging
    * develop
 
-[Image of creating branches]
+![creando ramas](Screenshot_5.png)
+![creando ramas](Screenshot_6.png)
+![creando ramas](Screenshot_7.png)
 
 ### Crear el README.md
 1. Crea un nuevo archivo llamado `README.md`.
