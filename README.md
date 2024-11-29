@@ -14,7 +14,7 @@ Markdown
 1. Ve a los Settings del repositorio.
 2. En la sección "Collaborators", agrega a `wilfredvasquez`.
 
-[Image of adding a collaborator]
+![Texto alternativo]((https://drive.google.com/file/d/1O5MGlILmfglTTendC8fggmldBDonlICX/view?usp=sharing))
 
 ### Crear branches
 1. En la pestaña "Code", crea los siguientes branches:
