@@ -34,13 +34,41 @@ Dinamismo del carrusel y otras funcionalidades interactivas (a través de Bootst
 
 se ha alojado la landing page dinamica en github pages en el dominio por defecto nolansandoval.github.io
 
+tecnologías usadas:
+github pages.
+
 enlace a la landing page:
 https://nolansandoval.github.io/_proweb_miproyecto/
 
 ## Evaluación 5: Crea un sección en tu landing llamada API donde muestres la lista de items de una api pública disponible. Con su paginación. Cómo plus (opcional): Que a darle click al item pueda ver el detalle de ese item.
 
+Caracteristicas:
 
+Se añadió una nueva sección en el cuerpo de la página, llamada API, donde se muestran elementos obtenidos desde una API pública(JSONPlaceholder).
 
+Los datos obtenidos de la API se muestran en una serie de Cards de Bootstrap, que incluyen un título, una breve descripción y un enlace a un detalle ficticio del item.
+
+Se implementó un sistema de paginación, donde los usuarios pueden navegar entre las páginas de los items usando botones de paginación.
+
+Tecnologías usadas:
+
+HTML:
+
+Se utilizó HTML para estructurar la página web, creando secciones como la barra de navegación, el carrusel, y la nueva sección de la API.
+CSS (Bootstrap 5):
+
+Bootstrap 5 se usó para darle un estilo atractivo y moderno a la página, utilizando clases como container, row, col-md-4, btn, card, carousel, etc. Esto permitió un diseño responsivo y fácil de implementar.
+JavaScript:
+
+JavaScript se utilizó para hacer la solicitud a la API, manejar la paginación y actualizar dinámicamente el contenido de la página sin tener que recargarla.
+Fetch API se usó para obtener los datos de la API pública y manipular la respuesta.
+API Pública:
+
+Se utilizó la API pública JSONPlaceholder (https://jsonplaceholder.typicode.com/posts), que simula una base de datos de posts para obtener una lista de items.
+Bootstrap Cards y Paginación:
+
+Cards de Bootstrap para mostrar los items obtenidos de la API.
+Se implementó una paginación básica con botones para navegar entre las páginas de los items.
 
 enlace a la landing page:
 https://nolansandoval.github.io/_proweb_miproyecto/
