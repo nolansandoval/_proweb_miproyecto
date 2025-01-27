@@ -1,5 +1,5 @@
-## RAMA (landing_page_html-DINAMICA) EVALUACION NRO 3
-## Evaluación: Modificar la landing page para ofrecer dinamismo utilizando framework css como bootstrap, bulma, tailwind, etc…
+## RAMA (landing_page_html-DINAMICA) EVALUACION NRO 3 4 y 5
+## Evaluación 3: Modificar la landing page para ofrecer dinamismo utilizando framework css como bootstrap, bulma, tailwind, etc…
 
 Esta rama es la version dinamica de la landing page basada solo en HTML. El objetivo de esta evaluación es brindarle dinamismo a la pagina utilizando algun framework.
 
@@ -29,6 +29,21 @@ CSS3:
 Estilos básicos (a través de Bootstrap).
 JavaScript:
 Dinamismo del carrusel y otras funcionalidades interactivas (a través de Bootstrap y su dependencias).
+
+## Evaluación 4: Alojar tu landing page en alguna plataforma de alojamiento, tales como github page, netlify, etc…
+
+se ha alojado la landing page dinamica en github pages en el dominio por defecto nolansandoval.github.io
+
+enlace a la landing page:
+https://nolansandoval.github.io/_proweb_miproyecto/
+
+## Evaluación 5: Crea un sección en tu landing llamada API donde muestres la lista de items de una api pública disponible. Con su paginación. Cómo plus (opcional): Que a darle click al item pueda ver el detalle de ese item.
+
+
+
+
+enlace a la landing page:
+https://nolansandoval.github.io/_proweb_miproyecto/
 
 
 **¡Gracias por tu contribución!**
